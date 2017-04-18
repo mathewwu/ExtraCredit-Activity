@@ -1,0 +1,7 @@
+# ExtraCredit-Activity
+
+git config --global user.name "Mathew Wu"
+
+git config --global user.email "mathewwu@ymail.com"
+
+git add README.md
